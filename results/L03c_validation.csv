@@ -1,0 +1,7 @@
+dimension,label,n_reference,tp,fp,fn,tn,precision,precision_lo,precision_hi,recall,recall_lo,recall_hi,f1,weighted_prevalence_local,tier,cohen_kappa,jaccard_positive
+hallucination_type,Hallucination,396,25,53,17,301,0.3205,0.2275,0.4304,0.5952,0.4449,0.7296,0.4167,0.08482,M,0.3263,0.3629
+unsafe_inference,Unsafe inference,396,0,5,9,382,0.0,0.0,0.4345,0.0,0.0,0.2992,,0.00473,E,0.0,0.0
+attribution_record_confusion,Source confusion,396,1,16,4,375,0.0588,0.0105,0.2698,0.2,0.0362,0.6245,0.0909,0.00621,M,0.2367,0.1429
+terminology_error,Terminology,396,39,12,9,336,0.7647,0.6324,0.86,0.8125,0.6806,0.8981,0.7879,0.04174,R,0.7936,0.6909
+language_adherence_failure,Language adherence,396,125,4,9,258,0.969,0.923,0.9879,0.9328,0.8773,0.9643,0.9506,0.35158,R,0.9073,0.8815
+record_supported,Record support,49,18,1,4,26,0.9474,0.7536,0.9906,0.8182,0.6148,0.9269,0.878,0.63459,R,0.6717,0.68

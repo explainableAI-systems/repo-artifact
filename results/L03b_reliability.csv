@@ -1,0 +1,7 @@
+dimension,label,n_in_scope,raw_agreement,cohen_kappa,gwet_ac1,n_positive_r1,n_positive_r2,n_positive_both,jaccard_positive,tier
+hallucination_type,Hallucination,396,0.7525,0.3263,0.7276,83,86,45,0.3629,M
+unsafe_inference,Unsafe inference,396,0.9394,0.0,0.9356,24,0,0,0.0,E
+attribution_record_confusion,Source confusion,396,0.9697,0.2367,0.9684,5,11,2,0.1429,M
+terminology_error,Terminology,396,0.9571,0.7936,0.9458,54,39,38,0.6909,R
+language_adherence_failure,Language adherence,396,0.9596,0.9073,0.9284,132,122,119,0.8815,R
+record_supported,Record support,49,0.8367,0.6717,0.68,24,18,17,0.68,R

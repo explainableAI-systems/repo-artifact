@@ -1,0 +1,20 @@
+Item,Value
+serving runtime,Ollama
+temperature,0.2
+top-p,0.9
+output cap (tokens),900
+generation seed,not set
+Ollama version^+,0.30.8
+model: Llama 3.1 8B,llama3.1:8b
+digest (llama3.1:8b)^+,46e0c10c039e
+model: Mistral 7B,mistral:7b
+digest (mistral:7b)^+,6577803aa9a0
+model: Qwen 2.5 7B,qwen2.5:7b
+digest (qwen2.5:7b)^+,845dbda0ea48
+model: DeepSeek-R1 7B,deepseek-r1:7b
+digest (deepseek-r1:7b)^+,755ced02ce7b
+GPU^+,NVIDIA GeForce RTX 5070 Ti
+driver^+,580.159.03
+device memory^+,16303 MiB
+quantisation,Q4_K_M (runtime default)
+generation frozen^+,not recorded

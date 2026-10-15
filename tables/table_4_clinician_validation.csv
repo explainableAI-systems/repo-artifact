@@ -1,0 +1,7 @@
+Dimension,Tier,n,Reliability (two raters) kappa,Reliability (two raters) Pos. R1/R2,Reliability (two raters) Jacc.,n_eff,Sample F_1,Design-weighted Prec.,Design-weighted Rec.,Design-weighted F_1,Design-weighted Prev.%
+Language adherence,R,396,+0.907,132/122,0.881,102.5,0.93,0.88,0.95,"0.92 [0.84, 0.97]",32.1
+Terminology,R,396,+0.794,54/39,0.691,7.1,0.76,0.81,0.27,"0.41 [0.17, 0.63]",4.4
+Record support,R,49,+0.672,24/18,0.680,17.7,0.75,0.86,0.77,"0.81 [0.65, 0.92]",59.8
+Hallucination,M,396,+0.326,83/86,0.363,24.9,0.34,0.29,0.46,"0.36 [0.22, 0.50]",7.3
+Source confusion,M,396,+0.237,5/11,0.143,4.0,0.07,--,--,--,--
+Unsafe inference,E,396,+0.000,24/0,0.000,--,--,--,--,--,--

@@ -1,0 +1,21 @@
+metric,metric_label,model,model_label,P0,P1,P2,P3,importance_no_context_pp,importance_with_context_pp,interaction_pp,ci_low_pp,ci_high_pp,p_raw,estimable,p_holm,significant,holm_family
+AER_global,AER_sup,llama,Llama 3.1 8B,0.0,79.378,0.0,55.6,79.378,55.6,-23.778,-28.667,-19.022,0.00019998000199980003,1,0.0007999200079992001,1,robustness: 4 models within metric
+AER_global,AER_sup,mistral,Mistral 7B,0.133,74.0,0.0,73.067,73.867,73.067,-0.8,-4.667,2.978,0.6813318668133187,1,0.6813318668133187,0,robustness: 4 models within metric
+AER_global,AER_sup,qwen,Qwen 2.5 7B,0.133,85.644,0.0,57.956,85.511,57.956,-27.556,-30.978,-24.133,0.00019998000199980003,1,0.0007999200079992001,1,robustness: 4 models within metric
+AER_global,AER_sup,deepseek,DeepSeek-R1 7B,0.222,72.222,0.222,64.978,72.0,64.756,-7.244,-12.178,-2.178,0.006199380061993801,1,0.012398760123987601,1,robustness: 4 models within metric
+AER_shap,AER_shap,llama,Llama 3.1 8B,0.365,67.774,0.044,47.628,67.409,47.584,-19.825,-23.772,-16.004,0.00019998000199980003,1,0.0007999200079992001,1,robustness: 4 models within metric
+AER_shap,AER_shap,mistral,Mistral 7B,0.227,61.002,0.0,59.514,60.775,59.514,-1.262,-4.648,2.079,0.45835416458354167,1,0.45835416458354167,0,robustness: 4 models within metric
+AER_shap,AER_shap,qwen,Qwen 2.5 7B,0.133,72.101,0.049,53.233,71.968,53.184,-18.784,-21.424,-16.105,0.00019998000199980003,1,0.0007999200079992001,1,robustness: 4 models within metric
+AER_shap,AER_shap,deepseek,DeepSeek-R1 7B,0.277,62.885,0.459,56.957,62.609,56.498,-6.111,-10.079,-2.17,0.0025997400259974,1,0.0051994800519948,1,robustness: 4 models within metric
+WAER_shap,WAER,llama,Llama 3.1 8B,0.301,78.037,0.017,55.763,77.737,55.746,-21.99,-25.904,-18.224,0.00019998000199980003,1,0.0007999200079992001,1,robustness: 4 models within metric
+WAER_shap,WAER,mistral,Mistral 7B,0.119,69.815,0.0,67.321,69.696,67.321,-2.374,-6.08,1.28,0.206979302069793,1,0.206979302069793,0,robustness: 4 models within metric
+WAER_shap,WAER,qwen,Qwen 2.5 7B,0.06,80.386,0.041,64.921,80.326,64.88,-15.446,-17.679,-13.188,0.00019998000199980003,1,0.0007999200079992001,1,robustness: 4 models within metric
+WAER_shap,WAER,deepseek,DeepSeek-R1 7B,0.179,72.083,0.286,66.52,71.904,66.234,-5.67,-9.536,-1.843,0.0033996600339966003,1,0.006799320067993201,1,robustness: 4 models within metric
+PRSR,PRSR,llama,Llama 3.1 8B,97.252,99.423,98.924,95.011,2.171,-3.913,-6.085,-9.172,-3.23,0.00019998000199980003,1,0.00039996000399960006,1,robustness: 4 models within metric
+PRSR,PRSR,mistral,Mistral 7B,81.452,55.572,82.749,81.787,-25.88,-0.962,24.918,12.478,37.379,0.00039996000399960006,1,0.00039996000399960006,1,robustness: 4 models within metric
+PRSR,PRSR,qwen,Qwen 2.5 7B,,,,,,,,,,,0,,0,robustness: 4 models within metric
+PRSR,PRSR,deepseek,DeepSeek-R1 7B,,,,,,,,,,,0,,0,robustness: 4 models within metric
+MEA,MEA,llama,Llama 3.1 8B,10.473,0.0,73.217,60.845,-10.473,-12.372,-1.899,-6.973,3.273,0.4771522847715228,1,0.4771522847715228,0,robustness: 4 models within metric
+MEA,MEA,mistral,Mistral 7B,11.651,0.0,65.767,67.876,-11.651,2.109,13.76,7.998,19.568,0.00019998000199980003,1,0.0007999200079992001,1,robustness: 4 models within metric
+MEA,MEA,qwen,Qwen 2.5 7B,26.853,0.465,76.031,76.194,-26.388,0.163,26.55,18.533,34.685,0.00019998000199980003,1,0.0007999200079992001,1,robustness: 4 models within metric
+MEA,MEA,deepseek,DeepSeek-R1 7B,6.078,0.0,71.713,24.341,-6.078,-47.372,-41.295,-48.441,-33.82,0.00019998000199980003,1,0.0007999200079992001,1,robustness: 4 models within metric

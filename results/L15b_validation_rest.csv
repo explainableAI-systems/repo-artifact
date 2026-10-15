@@ -1,0 +1,4 @@
+dimension,label,n_reference,n_consensus,n_readjudicated,n_outstanding,complete,tp,fp,fn,tn,precision,precision_lo,precision_hi,recall,recall_lo,recall_hi,f1,weighted_prevalence_local,precision_before,recall_before,f1_before
+hallucination_type,Halusinasi,396,298,98,0,1,20,58,18,300,0.2564,0.1726,0.3631,0.5263,0.3726,0.6752,0.3448,0.07334,0.3205,0.5952,0.4167
+unsafe_inference,Inferensi tidak aman,396,372,24,0,1,0,5,3,388,0.0,0.0,0.4345,0.0,0.0,0.5615,,0.00167,0.0,0.0,
+attribution_record_confusion,Kebingungan sumber,396,384,12,0,1,1,16,10,369,0.0588,0.0105,0.2698,0.0909,0.0162,0.3774,0.0714,0.00869,0.0588,0.2,0.0909

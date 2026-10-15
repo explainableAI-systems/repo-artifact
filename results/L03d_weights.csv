@@ -1,0 +1,13 @@
+strata,n_sampled_local,design_weight,weight_source
+N:screened,76,203.0722,recorded at sampling (1/inclusion probability)
+P:direction_asserted,3,11.32,recorded at sampling (1/inclusion probability)
+P:hallucination,25,81.62,recorded at sampling (1/inclusion probability)
+P:language_failure,48,142.12,recorded at sampling (1/inclusion probability)
+P:record_unsupported,18,48.54,recorded at sampling (1/inclusion probability)
+P:source_confusion,27,11.72,recorded at sampling (1/inclusion probability)
+P:terminology_error,47,6.8,recorded at sampling (1/inclusion probability)
+P:terminology_error|N:screened,1,6.6112,recorded at sampling (1/inclusion probability)
+P:terminology_error|R:whole_explanation,1,6.6172,recorded at sampling (1/inclusion probability)
+P:unsafe_inference,4,14.96,recorded at sampling (1/inclusion probability)
+P:unsafe_inference|R:whole_explanation,1,14.0275,recorded at sampling (1/inclusion probability)
+R:whole_explanation,195,210.0,recorded at sampling (1/inclusion probability)

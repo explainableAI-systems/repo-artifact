@@ -1,0 +1,2 @@
+n_encounters,n_models,n_conditions,n_explanations,n_claims_total,n_headings,n_claims_audited,pct_headings,claims_per_explanation_mean,naive_four_sevenths_estimate,naive_estimate_error,n_truncated,pct_truncated,n_complete,output_token_cap,temperature,top_p,seed,runtime,uniform_decoding_across_models
+225,4,4,3600,42460,8120,34340,19.12,11.79,48224,-5764,324,9.0,3276,900,0.2,0.9,not set,Ollama,1

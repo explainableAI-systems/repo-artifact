@@ -1,0 +1,7 @@
+dimension,label,n_in_scope_local,n_agree,n_disagree,n_disagree_adjudicated,adjudication_complete,n_positive_r1,n_positive_r2,n_positive_both,n_audit_positive,estimable
+hallucination_type,Hallucination,396,298,98,98,1,83,86,45,78,1
+unsafe_inference,Unsafe inference,396,372,24,24,1,24,0,0,5,0
+attribution_record_confusion,Source confusion,396,384,12,12,1,5,11,2,17,1
+terminology_error,Terminology,396,379,17,17,1,54,39,38,51,1
+language_adherence_failure,Language adherence,396,380,16,16,1,132,122,119,129,1
+record_supported,Record support,49,41,8,8,1,24,18,17,19,1

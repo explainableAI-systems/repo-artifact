@@ -1,0 +1,7 @@
+Dimension,TP,FP,FN,TN
+Language adherence,116,13,4,263
+Terminology,39,12,13,332
+Record support,15,4,6,24
+Hallucination,20,58,18,300
+Source confusion,1,16,10,369
+Unsafe inference,0,5,3,388

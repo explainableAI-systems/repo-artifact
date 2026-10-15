@@ -1,0 +1,7 @@
+Dimension,exposed,%,bound (predicted),F_1 (observed)
+Language adherence,16/396,4.0,"[0.91, 0.97]",0.93
+Terminology,17/396,4.3,"[0.69, 0.84]",0.76
+Record support,8/49,16.3,"[0.67, 0.88]",0.75
+Source confusion,12/396,3.0,not estimable,0.07
+Unsafe inference,24/396,6.1,not estimable,--
+Hallucination,98/396,24.8,"[0.18, 0.72]",0.34

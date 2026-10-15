@@ -1,0 +1,19 @@
+metric,quantity,estimate_pp,se_pp,ci_low_pp,ci_high_pp,significant,adjusted_for
+AER_sup,interaction (P3-P2)-(P1-P0),-12.952,1.222,-15.346,-10.558,1.0,"condition + model + length + truncation, CR1"
+AER_shap,interaction (P3-P2)-(P1-P0),-10.117,1.007,-12.09,-8.144,1.0,"condition + model + length + truncation, CR1"
+PRSR,interaction (P3-P2)-(P1-P0),-16.741,2.699,-22.031,-11.451,1.0,"condition + model + length + truncation, CR1"
+MEA,interaction (P3-P2)-(P1-P0),0.574,1.854,-3.06,4.207,0.0,"condition + model + length + truncation, CR1"
+HR,interaction (P3-P2)-(P1-P0),9.755,0.665,8.452,11.058,1.0,"condition + model + length + truncation, CR1"
+LAF,interaction (P3-P2)-(P1-P0),2.25,1.36,-0.417,4.916,0.0,"condition + model + length + truncation, CR1"
+any_audit_flag,interaction (P3-P2)-(P1-P0),26.874,3.447,20.118,33.63,1.0,"condition + model + length + truncation, CR1"
+AER_global,"interaction, untruncated only",-16.516,,,,,complete case; all-explanation value -14.85 pp
+AER_shap,"interaction, untruncated only",-12.794,,,,,complete case; all-explanation value -11.49 pp
+ARC,"interaction, untruncated only",-0.508,,,,,complete case; all-explanation value -0.58 pp
+HR,"interaction, untruncated only",10.529,,,,,complete case; all-explanation value +10.49 pp
+LAF,"interaction, untruncated only",3.895,,,,,complete case; all-explanation value +5.29 pp
+MEA,"interaction, untruncated only",4.263,,,,,complete case; all-explanation value -0.72 pp
+PRSR,"interaction, untruncated only",-24.97,,,,,complete case; all-explanation value -25.95 pp
+TER,"interaction, untruncated only",-0.136,,,,,complete case; all-explanation value -0.63 pp
+UI,"interaction, untruncated only",-0.047,,,,,complete case; all-explanation value -0.03 pp
+WAER_shap,"interaction, untruncated only",-12.68,,,,,complete case; all-explanation value -11.37 pp
+any_audit_flag,"interaction, untruncated only",25.447,,,,,complete case; all-explanation value +24.89 pp

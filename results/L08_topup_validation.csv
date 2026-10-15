@@ -1,0 +1,2 @@
+dimension,source,n_annotated,n_audit_positive,tp,fp,fn,tn,precision,precision_lo,precision_hi,recall,recall_lo,recall_hi,f1,weighted_prevalence_local,single_annotator,blinded_to_audit_label
+unsafe_inference,blinded top-up sample,122,42,16,26,40,40,0.381,0.25,0.5319,0.2857,0.1842,0.4148,0.3265,0.49985,1,1

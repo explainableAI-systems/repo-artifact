@@ -1,0 +1,26 @@
+scope,level,n,n_truncated,pct_truncated
+overall,all,3600,324,9.0
+model,Llama 3.1 8B,900,0,0.0
+model,Mistral 7B,900,2,0.22
+model,Qwen 2.5 7B,900,0,0.0
+model,DeepSeek-R1 7B,900,322,35.78
+condition,P0,900,8,0.89
+condition,P1,900,140,15.56
+condition,P2,900,40,4.44
+condition,P3,900,136,15.11
+model x condition,Llama 3.1 8B / P0,225,0,0.0
+model x condition,Llama 3.1 8B / P1,225,0,0.0
+model x condition,Llama 3.1 8B / P2,225,0,0.0
+model x condition,Llama 3.1 8B / P3,225,0,0.0
+model x condition,Mistral 7B / P0,225,0,0.0
+model x condition,Mistral 7B / P1,225,0,0.0
+model x condition,Mistral 7B / P2,225,0,0.0
+model x condition,Mistral 7B / P3,225,2,0.89
+model x condition,Qwen 2.5 7B / P0,225,0,0.0
+model x condition,Qwen 2.5 7B / P1,225,0,0.0
+model x condition,Qwen 2.5 7B / P2,225,0,0.0
+model x condition,Qwen 2.5 7B / P3,225,0,0.0
+model x condition,DeepSeek-R1 7B / P0,225,8,3.56
+model x condition,DeepSeek-R1 7B / P1,225,140,62.22
+model x condition,DeepSeek-R1 7B / P2,225,40,17.78
+model x condition,DeepSeek-R1 7B / P3,225,134,59.56

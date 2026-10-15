@@ -1,0 +1,7 @@
+dimension,label,tier_R,n_reference,n_consensus,n_exposed,exposure_pct,f1_as_reported,f1_before_correction,f1_worst_case,f1_best_case,band_width,readable_as_point,f1_after_correction,correction_collected
+language_adherence_failure,Language adherence,1,396,380,16,4.04,0.9317,0.9506,0.9098,0.9728,0.063,1.0,0.9317,1
+terminology_error,Terminology,1,396,379,17,4.29,0.7573,0.7879,0.6863,0.8387,0.1524,0.0,0.7573,1
+record_supported,Record support,1,49,41,8,16.33,0.75,0.878,0.6667,0.878,0.2114,0.0,0.75,1
+attribution_record_confusion,Source confusion,0,396,384,12,3.03,0.0714,0.0909,,0.2727,,,0.0714,1
+unsafe_inference,Unsafe inference,0,396,372,24,6.06,,,,,,,,1
+hallucination_type,Hallucination,0,396,298,98,24.75,0.3448,0.4167,0.1796,0.7194,0.5398,0.0,0.3448,1

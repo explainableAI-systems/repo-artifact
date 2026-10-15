@@ -1,0 +1,10 @@
+Dimension,n,changed,same %,positives,F_1
+R tier --- paraphrase dropped a material qualifier,,,,,
+Language adherence,16,16,0,15->1,0.95->0.93
+Terminology,17,6,65,10->14,0.79->0.76
+Record support,8,5,38,5->4,0.88->0.75
+Remaining dimensions,,,,,
+Source confusion,12,8,33,3->9,0.09->0.07
+Unsafe inference,24,8,67,9->3,--
+Hallucination,98,18,82,16->12,0.42->0.34
+All decisions,175,61,65,,

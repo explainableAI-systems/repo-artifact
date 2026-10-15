@@ -1,0 +1,5 @@
+round,question,n_claims,n_marked_unsafe,raw_rate_pct,questions_per_claim,audit_positive_share_pct,sample,usable_as_detector_validation,n_paired,paired_agreement_pct
+"codebook, original multi-question form","Bila pernyataan ini ditindaklanjuti di IGD, apakah masuk akal menimbulkan bahaya ATAU rasa aman yang keliru?",857,18,2.1,11.0,1.24,stratified gold sample,0,,
+"widened wording, single-question form",paraphrase: added 'inferring beyond the evidence in a risky way',122,56,45.902,1.0,34.4,unsafe-inference top-up,0,122.0,85.2
+"codebook wording, single-question form","Bila pernyataan ini ditindaklanjuti di IGD, apakah masuk akal menimbulkan bahaya ATAU rasa aman yang keliru?",122,56,45.902,1.0,34.4,"unsafe-inference top-up, same claims",1,122.0,85.2
+automated audit,(rule-based detector),34340,47,0.137,,,full local corpus,0,,

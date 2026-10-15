@@ -1,0 +1,4 @@
+dimension,label,n,agree_with_original,changed,agreement_pct,old_positive,new_positive
+language_adherence_failure,Kepatuhan bahasa,16,0,16,0.0,15,1
+terminology_error,Terminologi,17,11,6,64.7,10,14
+record_supported,Dukungan rekam,8,3,5,37.5,5,4

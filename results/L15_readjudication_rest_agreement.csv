@@ -1,0 +1,4 @@
+dimension,label,n_issued,n_returned,complete,agree_with_original,changed,agreement_pct,old_positive,new_positive
+attribution_record_confusion,Kebingungan sumber,12,12,1,4,8,33.3,3,9
+unsafe_inference,Inferensi tidak aman,24,24,1,16,8,66.7,9,3
+hallucination_type,Halusinasi,98,98,1,80,18,81.6,16,12

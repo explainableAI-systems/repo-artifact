@@ -1,0 +1,4 @@
+dimension,label,n_reference,n_consensus,n_readjudicated,tp,fp,fn,tn,precision,precision_lo,precision_hi,recall,recall_lo,recall_hi,f1,weighted_prevalence_local,precision_before,recall_before,f1_before,f1_shift
+terminology_error,Terminologi,396,379,17,39,12,13,332,0.7647,0.6324,0.86,0.75,0.6179,0.8477,0.7573,0.04367,0.7647,0.8125,0.7879,-0.0306
+language_adherence_failure,Kepatuhan bahasa,396,380,16,116,13,4,263,0.8992,0.8352,0.9402,0.9667,0.9174,0.987,0.9317,0.32113,0.969,0.9328,0.9506,-0.0189
+record_supported,Dukungan rekam,49,41,8,15,4,6,24,0.7895,0.5667,0.9149,0.7143,0.5004,0.8619,0.75,0.59839,0.9474,0.8182,0.878,-0.128

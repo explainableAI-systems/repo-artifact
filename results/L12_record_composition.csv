@@ -1,0 +1,13 @@
+metric,label,unit,condition,n_explanations,numerator,value,lo,hi
+CRR,Record claims per explanation,claims,P0,900,1048.0,1.1644,1.1167,1.2122
+CRR,Record claims per explanation,claims,P1,900,357.0,0.3967,0.3578,0.4378
+CRR,Record claims per explanation,claims,P2,900,2038.0,2.2644,2.1911,2.3378
+CRR,Record claims per explanation,claims,P3,900,2268.0,2.52,2.4244,2.6189
+URCE,Unsupported record claims per explanation,claims,P0,900,489.0,0.5433,0.5,0.5867
+URCE,Unsupported record claims per explanation,claims,P1,900,67.0,0.0744,0.0556,0.0944
+URCE,Unsupported record claims per explanation,claims,P2,900,272.0,0.3022,0.2622,0.3433
+URCE,Unsupported record claims per explanation,claims,P3,900,297.0,0.33,0.2911,0.3711
+RCS,Explanations making any record claim,share,P0,900,751.0,83.4444,81.1111,85.7778
+RCS,Explanations making any record claim,share,P1,900,293.0,32.5556,30.1111,35.1111
+RCS,Explanations making any record claim,share,P2,900,861.0,95.6667,94.3333,96.8889
+RCS,Explanations making any record claim,share,P3,900,776.0,86.2222,84.5556,87.8889

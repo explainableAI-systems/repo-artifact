@@ -1,0 +1,20 @@
+item,value,provenance,note
+serving runtime,Ollama,recorded,recorded at generation time
+temperature,0.2,recorded,
+top-p,0.9,recorded,
+output cap (tokens),900,recorded,ollama num_predict; identical for all four models
+generation seed,not set,recorded,outputs are not bit-reproducible
+Ollama version,0.30.8,observed,read from the generation host after the fact
+model: Llama 3.1 8B,llama3.1:8b,recorded,
+  digest (llama3.1:8b),46e0c10c039e,observed,Ollama tags are mutable; no digest was captured at generation time
+model: Mistral 7B,mistral:7b,recorded,
+  digest (mistral:7b),6577803aa9a0,observed,Ollama tags are mutable; no digest was captured at generation time
+model: Qwen 2.5 7B,qwen2.5:7b,recorded,
+  digest (qwen2.5:7b),845dbda0ea48,observed,Ollama tags are mutable; no digest was captured at generation time
+model: DeepSeek-R1 7B,deepseek-r1:7b,recorded,
+  digest (deepseek-r1:7b),755ced02ce7b,observed,Ollama tags are mutable; no digest was captured at generation time
+GPU,NVIDIA GeForce RTX 5070 Ti,observed,generation host
+driver,580.159.03,observed,read after the fact
+device memory,16303 MiB,observed,
+quantisation,Q4_K_M (runtime default),recorded,no per-model quantisation tuning
+generation frozen,not recorded,missing,no result file or generation log carries a timestamp; a file mtime would date the analysis rather than the generation
